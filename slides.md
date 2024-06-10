@@ -25,7 +25,7 @@ The reveal.js configuration can be found in index.html
 <i class="fa fa-calendar-alt" style="margin: 0 10px 0 0"></i>
 11 de Junho de 2024
 <span style="margin: 0 20px"></span>
-Seminário de Introdução à Tectônica de Global
+Seminário de Introdução à Tectônica Global
 
 <!-- Permission to reuse and CC-BY license logo -->
 <i class="fa fa-camera" style="margin: 0 10px 0 0"></i>
@@ -49,22 +49,17 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
-# Heading 1
+# Modelos da Estrutura Interna da Terra
 
-This is a slide with some content.
-
-## Heading 2
-
-* Bla bla
-* Bla bla
-
-### Heading 3
-
-Meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh
-meh meh.
+<img style="width: 55%;" src="assets/modelos-estrutura.png">
 
 ===============================================================================
 
+# Modelos da Estrutura Interna da Terra
+
+<img style="width: 55%;" src="assets/modelos-litosfera2.png">
+
+===============================================================================
 <div class="r-stretch">
 
 # Some facts
