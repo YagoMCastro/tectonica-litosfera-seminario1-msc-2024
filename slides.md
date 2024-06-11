@@ -70,7 +70,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 # Litosfera
 
-- Etimologia ⇒ Lithos (pedra) + sphaira (esfera)
+- Etimologia ⇒ Lithos (pedra) + sphaira (esfera);
 - Camada externa rígida e móvel que inclui crosta e pacela do manto superior;
 - Resultado do resfriamento da porção externa do globo terrestre;
 - Alterada por agentes externos e internos;
@@ -123,7 +123,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 # Crosta Oceânica
 
-- Resultante da fusão parcial do peridotito do manto superior (devido à descompressão adiabática), seguida pela cristalização na câmara magmática;
+- <p style="text-align: justify;">Resultante da fusão parcial do peridotito do manto superior (devido à descompressão adiabática), seguida pela cristalização na câmara magmática;</p>
 
 <div class="row">
   <div class="col centered">
@@ -211,8 +211,8 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
   <div class="col">
 
 
-- Em sistemas anidros e sob condições normais de temperatura, as geotermas não cruzam a curva do solidus;
-- A LVZ é raramente presente sob litosfera continental.
+- <p style="text-align: justify;">Em sistemas anidros e sob condições normais de temperatura, as geotermas não cruzam a curva do solidus;</p>
+- <p style="text-align: justify;">A LVZ é raramente presente sob litosfera continental.</p>
 
   </div>
   <div class="col centered">
@@ -272,11 +272,11 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 # Características físicas da litosfera
 
-- A litosfera carrega consigo uma conotação de frieza, alta viscosidade, permanência, resistência ao fluxo e uma relação com a crosta sobrejacente (Anderson, 1995).
-- A litosfera é geralmente assumida ter viscosidades 2 ou 3 ordens de magnitude mais altas que as encontradas na astenosfera (Anderson, 1995).
-- Resiste a pressões de ~1 kbar durante período superior a $10^9$ anos;
-- Litosfera é relativamente fria;
-- Maior parte do calor na litosfera é transferido por pelo processo de condução;
+- <p style="text-align: justify;">A litosfera carrega consigo uma conotação de frieza, alta viscosidade, permanência, resistência ao fluxo e uma relação com a crosta sobrejacente (Anderson, 1995).</p>
+- <p style="text-align: justify;">A litosfera é geralmente assumida ter viscosidades 2 ou 3 ordens de magnitude mais altas que as encontradas na astenosfera (Anderson, 1995).</p>
+- <p style="text-align: justify;">Resiste a pressões de ~1 kbar durante período superior a $10^9$ anos;</p>
+- <p style="text-align: justify;">Litosfera é relativamente fria;</p>
+- <p style="text-align: justify;">Maior parte do calor na litosfera é transferido por pelo processo de condução;</p>
 
 
 ===============================================================================
@@ -336,9 +336,9 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 ## Crustal thickness map of Brazil: Data compilation and main features
-- O mapa de espessura crustal é baseado em uma compilação de dados publicados e novas medições.
-- As fontes de dados incluem conjuntos de dados sísmicos de experimentos de refração sísmica profunda, análises de funções receptoras e velocidades de dispersão de ondas de superfície.
-- As espessuras crustais derivadas de anomalias gravitacionais dependem de suposições, como contraste de densidade constante através da interface do Moho.
+- <p style="text-align: justify">O mapa de espessura crustal é baseado em uma compilação de dados publicados e novas medições.</p>
+- <p style="text-align: justify">As fontes de dados incluem conjuntos de dados sísmicos de experimentos de refração sísmica profunda, análises de funções receptoras e velocidades de dispersão de ondas de superfície.</p>
+- <p style="text-align: justify">As espessuras crustais derivadas de anomalias gravitacionais dependem de suposições, como contraste de densidade constante através da interface do Moho.</p>
 
 ===============================================================================
 
