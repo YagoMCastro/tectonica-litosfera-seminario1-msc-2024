@@ -71,7 +71,8 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 # Litosfera
 
 - Etimologia ⇒ Lithos (pedra) + sphaira (esfera);
-- Camada externa rígida e móvel que inclui crosta e pacela do manto superior;
+- Camada externa rígida e móvel que inclui crosta e pacela do manto superior; 
+  - $T<1300°C$; 
 - Resultado do resfriamento da porção externa do globo terrestre;
 - Alterada por agentes externos e internos;
 - Espessura
