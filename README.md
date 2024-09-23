@@ -1,11 +1,9 @@
-# Magali
-**Event**: IAG | Science Day 2024
-
-**Date**: 2024/09/11
+# Class seminar presentation using Reveal.js 
+**Event**: Class seminar
 
 **Presenter**: Yago Moreira Castro
 
-**Preview:** [https://yagomcastro.github.io/tectonica-litosfera-seminario1-msc-2024/](https://yagomcastro.github.io/science-day-2024-magali/)
+**Preview:** [https://yagomcastro.github.io/tectonica-litosfera-seminario1-msc-2024/](https://yagomcastro.github.io/tectonica-litosfera-seminario1-msc-2024/)
 
 > A template by Leonardo Uieda was used to create this presentation:
 > https://github.com/leouieda/talk-template
